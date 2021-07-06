@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("xpp","git git git ");
 
         Log.d("xpp","test as updata upload git");
+        Log.d("xpp","test as updata upload git");
     }
 }
