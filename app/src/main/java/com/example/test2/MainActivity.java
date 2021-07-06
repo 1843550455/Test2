@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String hellowWorld = "test";
         Log.d("xpp",hellowWorld);
+        Log.d("xpp","git git git ");
     }
 }
