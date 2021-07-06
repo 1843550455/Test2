@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String hellowWorld = "test";
         Log.d("xpp",hellowWorld);
         Log.d("xpp","git git git ");
+
+        Log.d("xpp","test as updata upload git");
     }
 }
